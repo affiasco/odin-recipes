@@ -1,6 +1,6 @@
 # Odin Project, Recipes HTML Project
 
-Odin Project's Recipe Project
+Odin Project's Recipe Project \
 Create a recipe page to showcase foundational HTML Skills \
 This is an HTML project from the Odin Project and can be found on the [Odin Project's Website](https://www.theodinproject.com/lessons/foundations-recipes).
 
