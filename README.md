@@ -1,4 +1,4 @@
-# Odin Project, Recipes HTML Project
+# Odin Project, Recipes HTML & CSS Project
 
 Odin Project's Recipe Project \
 Create a recipe page to showcase foundational HTML Skills \
