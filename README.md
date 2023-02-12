@@ -9,8 +9,8 @@ This is a CSS assignment from the Odin Project and can be found on the [Odin Pro
 \
 This work showcases my ability to:
 
-- Master the HTML boilerplate
-- Create required directories and files via terminal commands
+- Master the HTML boilerplate.
+- Create required directories and files via terminal commands.
 - Usefundamental HTML tags - including headers, paragraphs, images, lists (relative, unordered and ordered), as well as relative and absolute links.
 - Incorporate fundamental CSS selectors - including classes, ids, and descendent combinators.
 - Utilize fundamental CSS properties such as font-family, font-weight, colors, margin, padding, and more.
