@@ -4,7 +4,7 @@ Odin Project's Recipe Project
 Create a recipe page to showcase foundational HTML Skills \
 This is an HTML project from the Odin Project and can be found on the [Odin Project's Website](https://www.theodinproject.com/lessons/foundations-recipes).
 
-Odin Project's Fundamental CSS Assignment
+Odin Project's Fundamental CSS Assignment \
 This is a CSS assignment from the Odin Project and can be found on the [Odin Project's Website](https://www.theodinproject.com/lessons/foundations-css-foundations). \
 \
 This work showcases my ability to:
