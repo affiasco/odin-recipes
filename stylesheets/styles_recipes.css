@@ -56,7 +56,7 @@ h2 {
   font-size: 36px;
 }
 
-.dish-desc {
+#dish-desc {
   margin: 0 200px 5px 15px;
   line-height: 95%;
   font-size: 18px;
@@ -100,7 +100,7 @@ a {
   text-decoration: none;
 }
 
-.homepage-link {
+#homepage-link {
   text-decoration: none;
   color: rgb(98, 98, 199, 0.7);
   font-weight: 500;
